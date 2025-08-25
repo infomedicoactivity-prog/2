@@ -88,7 +88,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Phone Number</h3>
-                  <p className="text-gray-600">+91 7019580374</p>
+                  <p className="text-gray-600"></p>
                 </div>
               </div>
               
